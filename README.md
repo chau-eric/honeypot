@@ -5,7 +5,7 @@ This project consists of
 <br />
 
 <h2>Tools Used</h2>
-
+- <b>Microsoft Azure</b>
 - <b>Azure Sentinel</b>
 - <b><a href="https://github.com/BishopFox/sliver/wiki">Sliver</a></b>
 
